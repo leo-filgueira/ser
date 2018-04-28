@@ -1,0 +1,36 @@
+---
+title: "Tópicos para palestra - SER"
+output:
+  prettydoc::html_pretty:
+    theme: cayman
+    highlight: github
+---
+
+- Exigência do mercado de trabalho.
+- Tempo de dedicação desde o início.
+- Uso do *help* e outras documentações de pacotes.
+- Materiais de apoio.
+    - R4DS.
+- Dúvidas no *Stack Overflow*.
+- Constante busca.
+- Conhecimento de pacotes.
+    - *tidyverse*.
+        - *dplyr*.
+        - *tidyr*.
+        - *stringr*.
+        - *ggplot2*.
+    - *data.table*.
+    - *leaflet*.
+    - *dygraphs*.
+    - *shiny*
+    - *rmarkdown*.
+- *Github* dos pacotes.
+    - Novas funcionalidades.
+    - *Bugs*.
+- Conhecimento de SQL.
+- Conhecimento de GIT.
+
+EXTRA
+
+- Se divertir com o R (HAHAHHAHA)
+

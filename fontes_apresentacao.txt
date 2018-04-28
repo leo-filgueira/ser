@@ -1,3 +1,5 @@
 - https://revealjs.com/#/
 
 - https://github.com/rstudio/revealjs
+
+- https://github.com/hakimel/reveal.js#speaker-notes

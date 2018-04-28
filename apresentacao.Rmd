@@ -1,0 +1,41 @@
+---
+title: "Quão bom em R preciso SER?"
+author: "Jonatha Azevedo, Leonardo Filgueira"
+output:
+  revealjs::revealjs_presentation:
+    self_contained: false
+    center: true
+    reveal_plugins: ["chalkboard"]
+    reveal_options:
+      chalkboard:
+        theme: whiteboard
+        toggleNotesButton: false
+---
+
+# In the morning
+
+## Getting up
+
+- Turn off alarm
+- Get out of bed
+
+## slide 2
+
+- conteúdo
+
+## Breakfast
+
+- Eat eggs
+- Drink coffee
+
+# In the evening
+
+## Dinner
+
+- Eat spaghetti
+- Drink wine
+
+## Going to sleep
+
+- Get in bed
+- Count sheep
