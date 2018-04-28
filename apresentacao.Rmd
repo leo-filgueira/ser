@@ -3,8 +3,10 @@ title: "Quão bom em R preciso SER?"
 author: "Jonatha Azevedo, Leonardo Filgueira"
 output:
   revealjs::revealjs_presentation:
+    template: default_mod.html
     self_contained: false
     center: true
+    theme: night
     reveal_plugins: ["chalkboard"]
     reveal_options:
       chalkboard:
@@ -12,30 +14,71 @@ output:
         toggleNotesButton: false
 ---
 
-# In the morning
+## Desafios
 
-## Getting up
+>- Exigência do mercado de trabalho.
+>- Abrangência de conteúdos aprendidos na Universidade.
+>- Tempo de prática.
 
-- Turn off alarm
-- Get out of bed
+## Atitudes
 
-## slide 2
+>- Organizar tempo de estudo para o R.
+>- Ir além do ensinado em aula.
+>- Utilizar o *help*.
+>- Buscar pacotes.
+>- Pesquisar materiais.
 
-- conteúdo
+## Busca de pacotes
 
-## Breakfast
+>- Com professores, estagiários e colegas no mercado de trabalho.
+>- [Lista de pacotes úteis](https://support.rstudio.com/hc/en-us/articles/201057987-Quick-list-of-useful-R-packages) no site do RStudio.
+>- [R bloggers](https://www.r-bloggers.com/).
+>- [Blog do RStudio](https://blog.rstudio.com/)
 
-- Eat eggs
-- Drink coffee
+## Materiais
 
-# In the evening
+>- Vignettes de pacotes.
+>- Livro [R for Data science](http://r4ds.had.co.nz/).
+>- Cursos do [DataCamp](https://www.datacamp.com).
+>- [tryR](http://tryr.codeschool.com), do Code School.
+>- [R beginners guide](https://www.computerworld.com/article/2497143/business-intelligence/business-intelligence-beginner-s-guide-to-r-introduction.html).
+>- [Webnars](https://www.rstudio.com/resources/webinars/) do RStudio.
 
-## Dinner
+## Pacotes importantes
 
-- Eat spaghetti
-- Drink wine
+### Pacotes do [Tidyverse](https://www.tidyverse.org/)
 
-## Going to sleep
+>- [dplyr](http://dplyr.tidyverse.org/)
+>- [tidyr](http://tidyr.tidyverse.org/)
+>- [ggplot2](http://ggplot2.tidyverse.org/)
+>- [stringr](http://stringr.tidyverse.org/)
+>- [purrr](http://purrr.tidyverse.org/)
 
-- Get in bed
-- Count sheep
+## Pacotes importantes
+
+### Outros pacotes
+
+>- [rmarkdown](https://rmarkdown.rstudio.com/)
+>- [shiny](https://shiny.rstudio.com/)
+>- [dygraphs](https://rstudio.github.io/dygraphs/)
+>- [leaflet](https://rstudio.github.io/leaflet/)
+>- [ggmap](https://cran.r-project.org/web/packages/ggmap/index.html)
+>- [data.table](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html)
+
+## Busca
+
+>- Sempre buscar novas funções e pacotes.
+>- Buscar dúvidas no [Stack Overflow](https://stackoverflow.com/).
+>- Conhecer o repositório dos pacotes no GitHub.
+>- Issues e novas features no github.
+
+## Outras ferramentas
+
+>- SQL.
+>- Git.
+>- Phyton.
+
+## Fontes
+
+- https://www.rstudio.com/online-learning/#r
+- https://support.rstudio.com/hc/en-us/articles/201057987-Quick-list-of-useful-R-packages
