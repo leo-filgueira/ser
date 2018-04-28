@@ -27,6 +27,7 @@ output:
 >- Utilizar o *help*.
 >- Buscar pacotes.
 >- Pesquisar materiais.
+>- Inglês.
 
 ## Busca de pacotes
 
