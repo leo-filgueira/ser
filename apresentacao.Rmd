@@ -1,12 +1,15 @@
 ---
 title: "Quão bom em R preciso SER?"
-author: "Jonatha Azevedo, Leonardo Filgueira"
+author: 
+- Jonatha Azevedo
+- Leonardo Filgueira
 output:
   revealjs::revealjs_presentation:
     template: default_mod.html
     self_contained: false
     center: true
-    theme: white
+    theme: serif
+    highlight: pygments
     background_transition: none
     transition: default
     reveal_plugins: ["chalkboard"]
@@ -16,13 +19,13 @@ output:
         toggleNotesButton: false
 ---
 
-## Desafios {data-background-image="ser.jpg" data-background-size="150px" data-background-position=bottom}
+## Desafios {data-background-image="ser3.png" data-background-size="150px" data-background-position=bottom}
 
 >- Exigência do mercado de trabalho.
 >- Abrangência de conteúdos aprendidos na Universidade.
 >- Tempo de prática.
 
-## Atitudes {data-background-image="ser.jpg" data-background-size="150px" data-background-position=bottom}
+## Atitudes {data-background-image="ser3.png" data-background-size="150px" data-background-position=bottom}
 
 >- Organizar tempo de estudo para o R.
 >- Ir além do ensinado em aula.
@@ -31,14 +34,14 @@ output:
 >- Pesquisar materiais.
 >- Inglês.
 
-## Busca de pacotes {data-background-image="ser.jpg" data-background-size="150px" data-background-position=bottom}
+## Busca de pacotes {data-background-image="ser3.png" data-background-size="150px" data-background-position=bottom}
 
 >- Com professores, estagiários e colegas no mercado de trabalho.
 >- [Lista de pacotes úteis](https://support.rstudio.com/hc/en-us/articles/201057987-Quick-list-of-useful-R-packages) no site do RStudio.
 >- [R bloggers](https://www.r-bloggers.com/).
 >- [Blog do RStudio](https://blog.rstudio.com/)
 
-## Materiais {data-background-image="ser.jpg" data-background-size="150px" data-background-position=bottom}
+## Materiais {data-background-image="ser3.png" data-background-size="150px" data-background-position=bottom}
 
 >- Vignettes de pacotes.
 >- Livro [R for Data science](http://r4ds.had.co.nz/).
@@ -47,7 +50,7 @@ output:
 >- [R beginners guide](https://www.computerworld.com/article/2497143/business-intelligence/business-intelligence-beginner-s-guide-to-r-introduction.html).
 >- [Webnars](https://www.rstudio.com/resources/webinars/) do RStudio.
 
-## Pacotes importantes {data-background-image="ser.jpg" data-background-size="150px" data-background-position=bottom}
+## Pacotes importantes {data-background-image="ser3.png" data-background-size="150px" data-background-position=bottom}
 
 ### Pacotes do [Tidyverse](https://www.tidyverse.org/)
 
@@ -57,7 +60,7 @@ output:
 >- [stringr](http://stringr.tidyverse.org/)
 >- [purrr](http://purrr.tidyverse.org/)
 
-## Pacotes importantes {data-background-image="ser.jpg" data-background-size="150px" data-background-position=bottom}
+## Pacotes importantes {data-background-image="ser3.png" data-background-size="150px" data-background-position=bottom}
 
 ### Outros pacotes
 
@@ -68,20 +71,20 @@ output:
 >- [ggmap](https://cran.r-project.org/web/packages/ggmap/index.html)
 >- [data.table](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html)
 
-## Busca {data-background-image="ser.jpg" data-background-size="150px" data-background-position=bottom}
+## Busca {data-background-image="ser3.png" data-background-size="150px" data-background-position=bottom}
 
 >- Sempre buscar novas funções e pacotes.
 >- Buscar dúvidas no [Stack Overflow](https://stackoverflow.com/).
 >- Conhecer o repositório dos pacotes no GitHub.
 >- Issues e novas features no github.
 
-## Outras ferramentas {data-background-image="ser.jpg" data-background-size="150px" data-background-position=bottom}
+## Outras ferramentas {data-background-image="ser3.png" data-background-size="150px" data-background-position=bottom}
 
 >- SQL.
 >- Git.
 >- Phyton.
 
-## Fontes {data-background-image="ser.jpg" data-background-size="150px" data-background-position=bottom}
+## Fontes {data-background-image="ser3.png" data-background-size="150px" data-background-position=bottom}
 
 - https://www.rstudio.com/online-learning/#r
 - https://support.rstudio.com/hc/en-us/articles/201057987-Quick-list-of-useful-R-packages
