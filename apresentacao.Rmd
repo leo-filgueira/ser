@@ -32,6 +32,7 @@ output:
 >- Utilizar o *help*.
 >- Buscar pacotes.
 >- Pesquisar materiais.
+>- Participar de projetos.
 >- Inglês.
 
 ## Busca de pacotes {data-background-image="ser3.png" data-background-size="150px" data-background-position=bottom}
@@ -49,6 +50,7 @@ output:
 >- [tryR](http://tryr.codeschool.com), do Code School.
 >- [R beginners guide](https://www.computerworld.com/article/2497143/business-intelligence/business-intelligence-beginner-s-guide-to-r-introduction.html).
 >- [Webnars](https://www.rstudio.com/resources/webinars/) do RStudio.
+>- [Portal](http://www.estatisticacomr.uff.br/) do projeto Estatística é com R!
 
 ## Pacotes importantes {data-background-image="ser3.png" data-background-size="150px" data-background-position=bottom}
 
@@ -77,6 +79,7 @@ output:
 >- Buscar dúvidas no [Stack Overflow](https://stackoverflow.com/).
 >- Conhecer o repositório dos pacotes no GitHub.
 >- Issues e novas features no github.
+>- Participar de eventos.
 
 ## Outras ferramentas {data-background-image="ser3.png" data-background-size="150px" data-background-position=bottom}
 
