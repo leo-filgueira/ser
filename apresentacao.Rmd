@@ -37,7 +37,7 @@ output:
 
 ## Busca de pacotes {data-background-image="ser3.png" data-background-size="150px" data-background-position=bottom}
 
->- Com professores, estagiários e colegas no mercado de trabalho.
+>- Com professores e colegas no mercado de trabalho.
 >- [Lista de pacotes úteis](https://support.rstudio.com/hc/en-us/articles/201057987-Quick-list-of-useful-R-packages) no site do RStudio.
 >- [R bloggers](https://www.r-bloggers.com/).
 >- [Blog do RStudio](https://blog.rstudio.com/)
