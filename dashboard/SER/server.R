@@ -1,5 +1,15 @@
 server <- function(input, output) {
   
+  dados_st = readRDS("dados/incerteza.rds")
+  st = ts(dados_st$value,start = c(2000,01),frequency = 12)
+  output$dygraph <- renderDygraph({
+    dygraph(st)%>% 
+      dyRangeSelector(height = 20, strokeColor = "") 
+  })
+  
+  
+  
+  
   shape <- readOGR("dados/BRUFE250GC_SIR.shp", stringsAsFactors = F, use_iconv = T, 
                    encoding = "UTF-8")
   shape <- spTransform(shape, CRS("+ellps=WGS84 +proj=longlat +datum=WGS84 +no_defs"))
