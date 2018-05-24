@@ -61,6 +61,7 @@ output:
 >- [ggplot2](http://ggplot2.tidyverse.org/)
 >- [stringr](http://stringr.tidyverse.org/)
 >- [purrr](http://purrr.tidyverse.org/)
+>- [lubridate](http://lubridate.tidyverse.org/)
 
 ## Pacotes importantes {data-background-image="ser3.png" data-background-size="150px" data-background-position=bottom}
 
@@ -72,7 +73,6 @@ output:
 >- [leaflet](https://rstudio.github.io/leaflet/)
 >- [ggmap](https://cran.r-project.org/web/packages/ggmap/index.html)
 >- [data.table](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html)
->- [lubridate](http://lubridate.tidyverse.org/)
 
 ## Busca {data-background-image="ser3.png" data-background-size="150px" data-background-position=bottom}
 
